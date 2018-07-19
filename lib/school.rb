@@ -34,7 +34,7 @@ class School
     roster_sorted[k] = v.sort
   end
     roster_sorted
-    #binding.pry
+    
     end
 
   end
